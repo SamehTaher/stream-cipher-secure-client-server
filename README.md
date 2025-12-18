@@ -1,2 +1,17 @@
-# stream-cipher-secure-client-server
-Implemented a custom RC4-based stream cipher in Python and integrated it into a TCP client–server architecture with nonce-based key derivation and message integrity verification.
+# Implementation and Analysis of a Stream Cipher with Secure Client–Server Communication
+
+## Overview
+Custom RC4-based stream cipher implemented in Python and integrated into a TCP client–server model.
+
+## Features
+- Custom RC4 implementation
+- Nonce-based key derivation
+- SHA-256 hashing
+- TCP socket communication
+
+## Learning Outcomes
+- Understanding symmetric encryption
+- Secure key handling
+- Networking fundamentals
+
+⚠️ Educational use only.
